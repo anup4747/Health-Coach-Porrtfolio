@@ -16,8 +16,8 @@ export default function Services() {
         
             >
               <li className="ml-4">Online Exercise</li>
+            <li className="ml-4">Free Online Sessions</li>
               <li className="ml-4">Meal & Diet Plan</li>
-              <li className="ml-4">1 to 1 Counseling</li>
               <li className="ml-4">Personal Coach</li>
               <li className="ml-4">Weekly Follow-up</li>
             </ul>
@@ -27,10 +27,10 @@ export default function Services() {
               className="flex flex-col items-center list-disc list-outside space-y-4 text-gray-700"
                // Scroll animation for the second list
             >
+              <li className="ml-4">1 to 1 Counseling</li>
               <li className="ml-4">Healthy Recipes</li>
               <li className="ml-4">Face Yoga</li>
               <li className="ml-4">Meditation</li>
-              <li className="ml-4">Free Online Sessions</li>
               <li className="ml-4">Free Three-Day Trial</li>
             </ul>
           </div>
