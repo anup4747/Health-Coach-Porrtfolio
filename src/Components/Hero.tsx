@@ -2,7 +2,7 @@ import profileImage from '../assets/profile.jpg';
 
 export default function Hero() {
   return (
-    <div>
+    <div id = "Home">
       <style>{`
   @keyframes fadeInLeft {
     0% {

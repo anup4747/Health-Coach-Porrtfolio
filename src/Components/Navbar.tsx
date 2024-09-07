@@ -30,12 +30,12 @@ export default function Navbar() {
               </div>
               {/* primary */}
               <div className="hidden lg:flex gap-8 ">
-                <a href="#" className="">
+                <a href="#Home" className="">
                   Home
                 </a>
-                <a href="#">Services</a>
-                <a href="#">Testimonies</a>
-                <a href="#">Contact Us</a>
+                <a href="#Services">Services</a>
+                <a href="#Testimonies">Testimonies</a>
+                <a href="#Contact">Contact Us</a>
               </div>
             </div>
             {/* secondary */}

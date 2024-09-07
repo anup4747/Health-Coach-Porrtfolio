@@ -4,7 +4,7 @@ export default function Testimonies() {
 
     return (
         
-      <section>
+      <section id = "Testimonies">
       <div className="container mx-auto px-6 md:px-36">
         <h2 className="text-4xl font-bold text-gray-800 text-center mb-8">
           Testimonies

@@ -1,7 +1,7 @@
 export default function Services() {
 
     return (
-        <section className="bg-gray-100 py-12">
+        <section className="bg-gray-100 py-12" id = "Services" >
         <div className="container mx-auto px-6 md:px-36">
           <h2
             className="text-4xl font-bold text-gray-800 text-center mb-8"
