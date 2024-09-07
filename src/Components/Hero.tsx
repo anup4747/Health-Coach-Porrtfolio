@@ -46,7 +46,7 @@ export default function Hero() {
           {/* Left Side - Rounded Image */}
           <div className="w-64 h-64 mb-6 md:w-96 md:h-96 md:mb-0 md:mr-8 shadow-black shadow-2xl rounded-full animate-fadeInLeft">
             <img
-              src="./src/assets/profile.jpg"
+              src="../assets/profile.jpg"
               alt="Nutrition Coach"
               className="rounded-full w-full h-full object-cover"
             />
