@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <div>
-      <style tsx global>{`
+      <style>{`
   @keyframes fadeInLeft {
     0% {
       opacity: 0;
