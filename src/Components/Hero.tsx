@@ -47,11 +47,7 @@ export default function Hero() {
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-6 md:px-52">
           {/* Left Side - Rounded Image */}
           <div className="w-64 h-64 mb-6 md:w-96 md:h-96 md:mb-0 md:mr-8 shadow-black shadow-2xl rounded-full animate-fadeInLeft">
-            <img
-              src={profileImage}
-              alt="Nutrition Coach"
-              className="rounded-full w-full h-full object-cover"
-            />
+            <img src={profileImage} alt="Nutrition Coach" className="rounded-full w-full h-full object-cover" />
           </div>
 
           {/* Right Side - Text and Button */}
