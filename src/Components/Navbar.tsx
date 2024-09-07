@@ -68,12 +68,12 @@ export default function Navbar() {
         >
           <div className="px-8">
             <div className="flex flex-col gap-8 font-bold tracking-wider">
-              <a href="#Home" className="border-l-4 border-gray-600">
+              <a href="#Home" className="border-l-4 border-gray-600" onClick={() => setToggleMenu(!toggleMenu)}>
                 Home
               </a>
-              <a href="#Services">Services</a>
-              <a href="#Testimonies">Testimonies</a>
-              <a href="#Contact Us">Contact Us</a>
+              <a href="#Services" onClick={() => setToggleMenu(!toggleMenu)}>Services</a>
+              <a href="#Testimonies" onClick={() => setToggleMenu(!toggleMenu)}>Testimonies</a>
+              <a href="#Contact Us" onClick={() => setToggleMenu(!toggleMenu)}>Contact Us</a>
             </div>
           </div>
         </div>
