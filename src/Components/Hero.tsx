@@ -5,6 +5,11 @@ export default function Hero() {
     <div id = "Home">
       <style>{`
 
+      * {
+  user-select: none;
+  caret-color: transparent;
+}
+
       html {
   scroll-behavior: smooth;
 }
