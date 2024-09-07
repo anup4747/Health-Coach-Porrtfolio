@@ -4,6 +4,10 @@ export default function Hero() {
   return (
     <div id = "Home">
       <style>{`
+
+      html {
+  scroll-behavior: smooth;
+}
   @keyframes fadeInLeft {
     0% {
       opacity: 0;
