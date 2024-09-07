@@ -73,7 +73,7 @@ export default function Navbar() {
               </a>
               <a href="#Services" onClick={() => setToggleMenu(!toggleMenu)}>Services</a>
               <a href="#Testimonies" onClick={() => setToggleMenu(!toggleMenu)}>Testimonies</a>
-              <a href="#Contact Us" onClick={() => setToggleMenu(!toggleMenu)}>Contact Us</a>
+              <a href="#Contact" onClick={() => setToggleMenu(!toggleMenu)}>Contact Us</a>
             </div>
           </div>
         </div>
