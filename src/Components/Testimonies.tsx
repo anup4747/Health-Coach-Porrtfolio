@@ -9,67 +9,31 @@ export default function Testimonies() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 1"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 1" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 2"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 2" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 3"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 3" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 4"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 4" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 5"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 5" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 6"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 6" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 7"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 7" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 8"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 8" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
           <div className="w-full h-full">
-            <img
-              src="./src/assets/image.jpg"
-              alt="Gallery Image 9"
-              className="object-cover w-full h-full rounded-lg shadow-lg"
-            />
+            <img src="../assets/image.jpg" alt="Gallery Image 9" className="object-cover w-full h-full rounded-lg shadow-lg"/>
           </div>
         </div>
       </div>
